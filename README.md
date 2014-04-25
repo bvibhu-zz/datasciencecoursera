@@ -1,4 +1,4 @@
-coursera-repo
-=============
+datasciencecoursera
+===================
 
 Code repository for Coursera projects
